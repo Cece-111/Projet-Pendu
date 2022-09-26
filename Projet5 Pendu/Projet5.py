@@ -1,4 +1,3 @@
-﻿#edit by Célian VIGNAUD, Florien MEUNIER, Candys
 from random import*
 
 def dessinPendu(nb):
